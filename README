@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4440
+
+Automatic syntax checker for Python programming language, bundled with pep8, pyflakes, mccabe for easy installation and use. Requires python-enabled Vim. Main development goes on https://github.com/andviro/flake8-vim 
+
+After installation script is ready to go. Syntax checking starts on buffer write. See README.md for usage details.
